@@ -6,7 +6,7 @@
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>plugin</artifactId>
     <version>4.13</version>
-    <relativePath />
+    <relativePath/>
   </parent>
   <groupId>io.jenkins.plugins</groupId>
   <artifactId>dingding-notifications</artifactId>
@@ -67,7 +67,7 @@
     <dependency>
       <groupId>org.projectlombok</groupId>
       <artifactId>lombok</artifactId>
-      <version>1.18.16</version>
+      <version>1.18.36</version>
       <scope>provided</scope>
     </dependency>
   </dependencies>
